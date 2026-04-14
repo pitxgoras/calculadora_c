@@ -31,5 +31,5 @@ Opción B: MinGW-w64
 # Cómo compilar y ejecutar
 Ejecutar DESDE el Git Bash:
 ./calculadora_C
-O SIMPLEMENTE CON "Ejecución y depuración (CTRL+Mayús+D)
+O SIMPLEMENTE CON "Ejecución y depuración (CTRL+Mayús+D)"
 ```
